@@ -4,6 +4,7 @@ https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
 
 Columns :
 Timestamp | Cnt | T1 | T2 | Hum | Wind_speed | Weather_code | Is_holiday | Is_weekend |season
+
 Data_types :
 Timestamp | Number | Temperature | Temperature | Humidity % | Km/h | Code | Boolean | Boolean | Season_code
 
