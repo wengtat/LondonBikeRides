@@ -16,3 +16,5 @@ Timestamp | Number | Temperature | Temperature | Humidity % | Km/h | Code | Bool
   ✓ Total number of bike rides
   ✓ Moving average charts
   ✓ Heatmap: temperature vs wind speed
+  
+  Visualization in Tableau: https://public.tableau.com/app/profile/wengtat/viz/LondonBikeRides_16847768336520/Dashboard?publish=yes
