@@ -1,7 +1,9 @@
 # LondonBikeRides
 Datasets from Kaggle
 https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
+
 Timestamp	Cnt	T1	T2	Hum	Wind_speed	Weather_code	Is_holiday	Is_weekend	season
+
 Timestamp	Number	Temperature	Temperature	Humidity %	Km/h	Code	Boolean	Boolean	Season_code
 
 - Use Jupyter notebook and wrote some codes to download Kaggle datasets using Kaggle API
