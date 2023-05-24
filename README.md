@@ -12,6 +12,7 @@ Timestamp | Number | Temperature | Temperature | Humidity % | Km/h | Code | Bool
 - Use pandas library in Python to explore, access and manipulate this Kaggle datasets
 - Wrote out the final dataframe into excel file
 - Create dashboard within Tableau by creating few visualizations:
+  
   ✓ Total number of bike rides
   ✓ Moving average charts
   ✓ Heatmap: temperature vs wind speed
