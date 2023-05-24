@@ -14,5 +14,5 @@ Timestamp | Number | Temperature | Temperature | Humidity % | Km/h | Code | Bool
 - Create dashboard within Tableau by creating few visualizations:
   
   	Total number of bike rides
-  	Moving average charts
-  	Heatmap: temperature vs wind speed
+   Moving average charts
+   Heatmap: temperature vs wind speed
